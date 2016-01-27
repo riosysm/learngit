@@ -3,3 +3,4 @@ Git is free software.
 Git let me add this line.
 jfkdalsjfklasf
 jfkdalsjfklsdajfklsdajfkldsajfkljsadlk
+Git has a mutable index called stage.
